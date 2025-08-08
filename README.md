@@ -52,8 +52,3 @@ Welcome to the ATM!
 2. Deposit
 3. Withdraw
 4. Exit
-Enter your choice:
-📌 Author
-Monika Kampati
-
-LinkedIn
